@@ -16,4 +16,5 @@
 [paper](dataset/markers/paper), [scissors](dataset/markers/scissors), [Stone](dataset/markers/Stone) 三種資料各500筆
 
 # 結果
+![](demo/loss.png)
 ![](demo/video.gif)
